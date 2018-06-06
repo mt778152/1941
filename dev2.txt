@@ -1,2 +1,1 @@
-text
 console.log("111")
